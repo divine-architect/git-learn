@@ -4,4 +4,5 @@ fn main(){
   println!("another change");
   let x = 332;
   println!("teeth hurty too: {}",x);
+  println!("string or int");
 }
